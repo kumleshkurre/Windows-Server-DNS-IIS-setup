@@ -98,8 +98,8 @@ IP: 10.0.0.2<br>
 - Select **Internet Protocol Version 4 (TCP/IPv4)** → **Properties**
 - Configure the IP address as follows:
 
-IP Address : 10.0.0.1 <br>
-Subnet Mask : 255.0.0.0
+&emsp;&emsp;IP Address : 10.0.0.1 <br>
+&emsp;&emsp;Subnet Mask : 255.0.0.0
 
 - Click **OK**
 
