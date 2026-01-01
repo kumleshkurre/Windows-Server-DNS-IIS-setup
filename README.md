@@ -188,10 +188,10 @@ C:\inetpub\wwwroot
 - Right-click **Sites** → **Add Website**
 
 Configuration:<br>
-Site Name : kurrecomputers<br>
-Physical Path : C:\inetpub\wwwroot<br>
-Binding Type : http / https<br>
-IP Address : This Machine(e.g. `10.0.0.2`)
+&emsp;&emsp;Site Name : kurrecomputers<br>
+&emsp;&emsp;Physical Path : C:\inetpub\wwwroot<br>
+&emsp;&emsp;Binding Type : http / https<br>
+&emsp;&emsp;IP Address : This Machine(e.g. `10.0.0.2`)
 
 - Click **OK**
 
