@@ -177,9 +177,9 @@ DNS Server : 10.0.0.1 <br>
 
 ---
 
-### Add Custom Website
+## Add Custom Website
 
-- Navigate to:
+ Navigate to:
 C:\inetpub\wwwroot
 
 - Paste your website file (e.g. `index.html`)
